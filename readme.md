@@ -1,9 +1,6 @@
 # Aligning Resources
 
 
-
-## Introduction 
-
 REST is all about resources. So, the tedious task of changing the state of the resources keep popping up again and again. Web is a wonderful platform to build distributed systems. So, it might be possible that many people are trying to change the state of the resource simultaneously. How do we make sure, we keep the right state of the resource. 
 
 I was reading about the REST other day, where I read about how do we align resources. The implementation in the book was in .NET(I have no idea what it is) and in Java. I have a background of python and javascript, so I decided to implement this simple exercise using Node.js. 
